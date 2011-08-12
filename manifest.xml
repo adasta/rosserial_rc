@@ -1,0 +1,17 @@
+<package>
+  <description brief="rosserial_rc">
+
+     rosserial_rc
+
+  </description>
+  <author>Adam Stambler</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rosserial_rc</url>
+  <depend package="rosserial_arduino"/>
+  <depend package="geometry_msgs"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
